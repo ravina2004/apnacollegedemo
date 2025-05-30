@@ -1,2 +1,2 @@
 # apnacollegedemo
-this is my fisrt git repostory
+this is my fisrt git repository
